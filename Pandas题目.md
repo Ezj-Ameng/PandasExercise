@@ -8,7 +8,7 @@ data = {'grammer':['python','java','go',np.nan,'python','C','C++'],'score':[1,np
 
 ### 1.使用字典数据创建DataFrame
 
-![image-20221111151437072](C:\Users\ameng\AppData\Roaming\Typora\typora-user-images\image-20221111151437072.png)
+![image-20221111151437072](PandasExercise/picture/image-20221111151437072.png)
 
 ### 2.提取grammer列是"python"的行
 
